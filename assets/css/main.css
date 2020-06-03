@@ -4025,7 +4025,12 @@ input, select, textarea {
 		text-decoration: none;
 	}
 
+	.nav-name {
+		padding-left: 1em;
+	}
+
 	h2 a {
 		text-decoration: none;
 		border: none;
 	}
+
