@@ -4027,4 +4027,5 @@ input, select, textarea {
 
 	h2 a {
 		text-decoration: none;
+		border: none;
 	}
